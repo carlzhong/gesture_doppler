@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidConfiguredLogFilters">
+    <filters>
+      <filter>
+        <option name="logLevel" value="verbose" />
+        <option name="logMessagePattern" value="" />
+        <option name="logTagPattern" value="zj" />
+        <option name="name" value="zj" />
+        <option name="packageNamePattern" value="" />
+      </filter>
+    </filters>
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="zj" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="506f33cd-9f20-469b-b963-510898c6c07f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Doppler-Android-Demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/app/Doppler-Android-Demo.app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/doppler/Doppler-Android-Demo.doppler.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jasperlu/test/GraphFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jasperlu/test/GraphFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doppler/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/doppler/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doppler/doppler.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rIYmjRTZs9V2ZUwGgLU3bco3eX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android-custom-view/Users/zhongjin/.gradle/caches/modules-2/files-2.1/com.android.support/support-v4/21.0.3/e40b935f2f6bfa8497a390b045a999de1bee1d5/support-v4-21.0.3-sources.jar!/android/support/v4/view/ViewPager.java_SELECTED" value="ViewPager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="multi-representation-preview/Users/zhongjin/.gradle/caches/modules-2/files-2.1/com.android.support/support-v4/21.0.3/e40b935f2f6bfa8497a390b045a999de1bee1d5/support-v4-21.0.3-sources.jar!/android/support/v4/view/ViewPager.java_selected" value="Custom views" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Doppler-Android-Demo.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="506f33cd-9f20-469b-b963-510898c6c07f" name="Default Changelist" comment="" />
+      <created>1618665231661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618665231661</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="520" y="270" key="#PSD" timestamp="1618668934338">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="520" y="270" key="#PSD/0.23.1792.1017@0.23.1792.1017" timestamp="1618668934338" />
+    <state width="1750" height="235" key="GridCell.Tab.0.bottom" timestamp="1618669534529">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="235" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1618669534529" />
+    <state width="1750" height="235" key="GridCell.Tab.0.center" timestamp="1618669534528">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="235" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1618669534528" />
+    <state width="1750" height="235" key="GridCell.Tab.0.left" timestamp="1618669534528">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="235" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1618669534528" />
+    <state width="1750" height="235" key="GridCell.Tab.0.right" timestamp="1618669534528">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="235" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1618669534528" />
+    <state x="582" y="382" key="edit.logcat.filter.dialog.dimensions" timestamp="1618669338564">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="582" y="382" key="edit.logcat.filter.dialog.dimensions/0.23.1792.1017@0.23.1792.1017" timestamp="1618669338564" />
+    <state x="588" y="272" width="615" height="518" key="find.popup" timestamp="1618671029154">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="588" y="272" width="615" height="518" key="find.popup/0.23.1792.1017@0.23.1792.1017" timestamp="1618671029154" />
+    <state x="682" y="391" key="psd.add.jar.dependency.panel.dimension" timestamp="1618668913139">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="682" y="391" key="psd.add.jar.dependency.panel.dimension/0.23.1792.1017@0.23.1792.1017" timestamp="1618668913139" />
+    <state x="544" y="281" key="psd.add.library.dependency.panel.dimension" timestamp="1618668333346">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="544" y="281" key="psd.add.library.dependency.panel.dimension/0.23.1792.1017@0.23.1792.1017" timestamp="1618668333346" />
+    <state x="808" y="393" key="psd.choose.module.panel.dimension" timestamp="1618668897019">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="808" y="393" key="psd.choose.module.panel.dimension/0.23.1792.1017@0.23.1792.1017" timestamp="1618668897019" />
+  </component>
+</project>

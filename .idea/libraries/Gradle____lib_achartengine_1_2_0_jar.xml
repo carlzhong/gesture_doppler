@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./lib/achartengine-1.2.0.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/achartengine-1.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
