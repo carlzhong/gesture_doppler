@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Gradle: ./lib/achartengine-1.2.0.jar">
+  <library name="Gradle: __local_aars__:/Users/zhongjin/code/xproject/gesture/gesture_doppler/lib/achartengine-1.2.0.jar:unspecified@jar">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/lib/achartengine-1.2.0.jar!/" />
     </CLASSES>

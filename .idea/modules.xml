@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Doppler-Android-Demo.iml" filepath="$PROJECT_DIR$/.idea/modules/Doppler-Android-Demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Doppler-Android-Demo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Doppler-Android-Demo.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/doppler/Doppler-Android-Demo.doppler.iml" filepath="$PROJECT_DIR$/.idea/modules/doppler/Doppler-Android-Demo.doppler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doppler/doppler.iml" filepath="$PROJECT_DIR$/doppler/doppler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gesture_doppler.iml" filepath="$PROJECT_DIR$/gesture_doppler.iml" />
     </modules>
   </component>
 </project>
