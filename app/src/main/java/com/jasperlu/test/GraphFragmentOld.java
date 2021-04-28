@@ -25,8 +25,8 @@ import org.achartengine.renderer.XYSeriesRenderer;
 
 
 
-public class GraphFragment extends Fragment {
-    DopplerCVer doppler;
+public class GraphFragmentOld extends Fragment {
+    Doppler doppler;
     private XYSeries mSeries;
     private XYSeries div10;
     private GraphicalView mChart;
@@ -53,7 +53,7 @@ public class GraphFragment extends Fragment {
 
         ((TextView)rootView.findViewById(R.id.graph_text_3)).append(Html.fromHtml(gesturesString));
 
-        doppler = TheDopplerCVer.getDoppler();
+        doppler = TheDoppler.getDoppler();
         renderGraph();
 
         return rootView;
@@ -73,10 +73,10 @@ public class GraphFragment extends Fragment {
     }
 
     public void startGraph() {
-        doppler.setOnReadCallback(new DopplerCVer.OnReadCallback() {
+        doppler.setOnReadCallback(new Doppler.OnReadCallback() {
             @Override
             public void onBandwidthRead(int leftBandwidth, int rightBandwidth) {
-                 Log.i("zj", "onBandwidthRead  "+leftBandwidth+","+rightBandwidth);
+                Log.i("zj", "onBandwidthRead  "+leftBandwidth+","+rightBandwidth);
             }
             @Override
             public void onBinsRead(double[] bins) {
@@ -93,7 +93,7 @@ public class GraphFragment extends Fragment {
             }
         });
 
-        doppler.setOnGestureListener(new DopplerCVer.OnGestureListener() {
+        doppler.setOnGestureListener(new Doppler.OnGestureListener() {
             @Override
             public void onPush() {
                 root.findViewById(R.id.colorBar).setBackgroundColor(root.getResources().getColor(R.color.red));
@@ -151,3 +151,4 @@ public class GraphFragment extends Fragment {
         ((LinearLayout)root.findViewById(R.id.chart)).addView(mChart);
     }
 }
+

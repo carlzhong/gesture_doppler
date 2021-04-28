@@ -1,0 +1,50 @@
+# Copyright (c) 2013 Bilibili
+# copyright (c) 2013 Zhang Rui <bbcallen@gmail.com>
+#
+# This file is part of ijkPlayer.
+#
+# ijkPlayer is free software; you can redistribute it and/or
+# modify it under the terms of the GNU Lesser General Public
+# License as published by the Free Software Foundation; either
+# version 2.1 of the License, or (at your option) any later version.
+#
+# ijkPlayer is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# Lesser General Public License for more details.
+#
+# You should have received a copy of the GNU Lesser General Public
+# License along with ijkPlayer; if not, write to the Free Software
+# Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
+
+APP_OPTIM := release
+APP_ABI := armeabi-v7a  arm64-v8a
+APP_PIE := false
+APP_PLATFORM := android-16
+
+# APP_STL := c++_static 
+
+APP_CPPFLAGS := -fexceptions
+
+# APP_CPPFLAGS := -frtti -std=gnu++11
+APP_CFLAGS := -O3 -Wall -pipe \
+    -ffast-math \
+    -fstrict-aliasing -Werror=strict-aliasing \
+    -Wa,--noexecstack \
+    -DANDROID -DNDEBUG
+
+# -Wno-psabi 
+
+
+# #APP_ABI := armeabi-v7a arm64-v8a x86 
+# # armeabi & mips are deprecated
+# APP_ABI :=  armeabi-v7a
+
+# APP_PLATFORM := android-14
+
+# APP_STL := gnustl_static
+
+# #APP_CPPFLAGS := -frtti -fexceptions
+# #APP_CPPFLAGS := -fpermissive
+# APP_CPPFLAGS := -frtti -std=gnu++11
+

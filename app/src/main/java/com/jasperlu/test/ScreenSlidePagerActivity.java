@@ -11,6 +11,7 @@ import android.support.v4.view.ViewPager;
 import android.util.Log;
 
 import com.jasperlu.doppler.Doppler;
+import com.jasperlu.doppler.DopplerCVer;
 
 /**
  * Created by Jasper on 3/24/2015.
@@ -32,7 +33,7 @@ public class ScreenSlidePagerActivity extends FragmentActivity {
      */
     private PagerAdapter mPagerAdapter;
 
-    private Doppler doppler;
+    private DopplerCVer doppler;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -43,8 +44,8 @@ public class ScreenSlidePagerActivity extends FragmentActivity {
         mPager = (ViewPager) findViewById(R.id.pager);
         mPagerAdapter = new ScreenSlidePagerAdapter(getSupportFragmentManager());
         mPager.setAdapter(mPagerAdapter);
-        doppler = TheDoppler.getDoppler();
-        doppler.start();
+        doppler = TheDopplerCVer.getDoppler();
+        //doppler.start();
 
         //go to the doppler graph in 5 seconds
         new Handler().postDelayed(new Runnable() {
